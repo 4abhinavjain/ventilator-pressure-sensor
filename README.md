@@ -12,7 +12,10 @@ The project is work-in-progress and the following objectives are expected to be 
 5) dFMEA risk analysis for use in medical devices: *pending*
 
 Stock availability of the sensor:
-As of now, there are are 
+As of now (Apr 2, 2020), close to 175 thousands pcs of BMP280 barometric pressure sensor are available in stock. Being a part which is frequently used in cellphones and health monitoring products, a lot more should be readily available at offline stores and warehouses.
+
+Consolidated source list 1: https://octopart.com/bmp280-bosch+tools-26451306#PriceAndStock
+Consolidated source list 2: https://octopart.com/bmp280-bosch+sensortec-51879412?r=sp#
 
 Please feel free to fork or join the project.
 
